@@ -1,0 +1,20 @@
+/* Minimal base styles for the app */
+:root {
+  --bg: #0f1724;
+  --text: #e6eef8;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* small utility to prevent long lines from breaking layout */
+code, pre, textarea {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+}
