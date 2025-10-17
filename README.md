@@ -71,8 +71,8 @@ This project is designed to run in a web environment where a Google API key is a
     This application is configured to use an API key from the environment (`process.env.API_KEY`). Ensure this variable is available in your execution environment.
 
 3.  **Serve the Files**:
-```  npm install
-
+```  
+npm install
 npm run dev
 ```
 4.  **Open in Browser**:
