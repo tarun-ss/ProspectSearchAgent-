@@ -71,16 +71,13 @@ This project is designed to run in a web environment where a Google API key is a
     This application is configured to use an API key from the environment (`process.env.API_KEY`). Ensure this variable is available in your execution environment.
 
 3.  **Serve the Files**:
-    Since this project uses ESM via an `importmap` and doesn't require a build step, you can serve it with any simple local web server.
-    If you have Python installed:
-    ```bash
-    python -m http.server
-    ```
-    Or using Node.js with `serve`:
-    ```bash
-    npx serve .
-    ```
+```  npm install
 
+npm run dev
+```
 4.  **Open in Browser**:
+Open `http://localhost:5173 `(or the URL shown by Vite) in your browser.
+
+
     Navigate to `http://localhost:8000` (or the port specified by your server) in your web browser.
 
