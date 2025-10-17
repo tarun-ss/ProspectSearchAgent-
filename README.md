@@ -9,7 +9,7 @@ Prospect Finder AI is a modern web application that leverages the power of the G
 
 **Main Interface**
 *(Paste your screenshot link here for the main UI)*
-![Main UI](https://user-images.githubusercontent.com/12345/67890-example-image-1.png)
+<img width="1595" height="941" alt="Image" src="https://github.com/user-attachments/assets/186816b5-4cb2-4dfb-9eff-3657a55e07a3" />
 *Shows the ICP input form on the left and the initial state of the results panel.*
 
 **Prospect Results**
