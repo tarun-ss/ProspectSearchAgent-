@@ -14,7 +14,10 @@ Prospect Finder AI is a modern web application that leverages the power of the G
 
 **Prospect Results**
 *(Paste your screenshot link here for the results view)*
-![Results View](https://user-images.githubusercontent.com/12345/67890-example-image-2.png)
+<img width="917" height="494" alt="Image" src="https://github.com/user-attachments/assets/6bb16d16-73e8-4ac2-976d-d9ceb3ecf6f9" />
+<img width="978" height="595" alt="Image" src="https://github.com/user-attachments/assets/7611a626-cf1a-4f40-8fc3-51f8410c6ddd" />
+<img width="916" height="517" alt="Image" src="https://github.com/user-attachments/assets/2b96d53e-5cfc-4d14-b7a8-bd242ad660d5" />
+<img width="1016" height="645" alt="Image" src="https://github.com/user-attachments/assets/51530f2c-5edd-4ad9-a0ad-d0eaa177bde5" />
 *Shows a grid of generated prospect cards with detailed company and contact information.*
 
 ---
