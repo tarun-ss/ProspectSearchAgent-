@@ -79,5 +79,5 @@ npm run dev
 Open `http://localhost:5173 `(or the URL shown by Vite) in your browser.
 
 
-    Navigate to `http://localhost:8000` (or the port specified by your server) in your web browser.
+   
 
