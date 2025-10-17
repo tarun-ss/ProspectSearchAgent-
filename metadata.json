@@ -1,0 +1,5 @@
+{
+  "name": "AI Prospect Search Agent",
+  "description": "An AI-powered B2B Prospect Finder that discovers companies and contacts matching a given Ideal Customer Profile (ICP) using Gemini.",
+  "requestFramePermissions": []
+}
